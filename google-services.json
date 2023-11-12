@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438069770345",
+    "project_id": "home-rent-f3b3a",
+    "storage_bucket": "home-rent-f3b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438069770345:android:7a1700a12342907f7bcaf8",
+        "android_client_info": {
+          "package_name": "com.morshed.sohag.houserentmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438069770345-nfr81j3fug2f1mpop461s1kr59ganvhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcj9uRDARx5qmGeNQbWfnz0wO-QGMiDX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438069770345-nfr81j3fug2f1mpop461s1kr59ganvhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
